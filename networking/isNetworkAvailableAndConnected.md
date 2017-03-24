@@ -1,3 +1,7 @@
+``` xml
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+```
+
 ``` java
 private boolean isNetworkAvailableAndConnected(context) {
  ConnectivityManager cm =
