@@ -36,6 +36,10 @@
 ### Logging
 * [Timber][timber github]
 
+### Crash Reporting
+* [Firebase Crash Reporting][firebase crash reporting homepage]
+* [Crashlytics][crashlytics homepage]
+
 [butterknife github.io]: http://jakewharton.github.io/butterknife/ "Butter Knife github.io page"
 [glide github]: https://github.com/bumptech/glide "Glide github page"
 [picasso github.io]: http://square.github.io/picasso/ "Picasso github.io page"
@@ -51,3 +55,5 @@
 [leakcanary github]: https://github.com/square/leakcanary "leakcanary github"
 [rxandroid github]: https://github.com/ReactiveX/RxAndroid "rxandroid github"
 [timber github]: https://github.com/JakeWharton/timber "timber github"
+[firebase crash reporting homepage]: https://firebase.google.com/docs/crash/android "firebase crash reporting homepage"
+[crashlytics homepage]: https://try.crashlytics.com "crashlytics homepage"
