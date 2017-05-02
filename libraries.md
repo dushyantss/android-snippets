@@ -18,6 +18,12 @@
 * [Retrofit][retrofit github.io]
 * [OkHttp][okhttp github.io], for lower level control
 
+### Memory Leaks
+* [Leak Canary][leakcanary github]
+
+### Reactive Programming
+* [RxAndroid][rxandroid github]
+
 ### I/O
 * [Okio][okio github]
 
@@ -26,6 +32,9 @@
 
 ### Upload Service
 * [Upload Service][upload service github], it also provides upload notification support
+
+### Logging
+* [Timber][timber github]
 
 [butterknife github.io]: http://jakewharton.github.io/butterknife/ "Butter Knife github.io page"
 [glide github]: https://github.com/bumptech/glide "Glide github page"
@@ -39,3 +48,6 @@
 [retrofit github.io]: http://square.github.io/retrofit/ "retrofit github.io"
 [okhttp github.io]: http://square.github.io/okhttp/ "okhttp github.io"
 [okio github]: https://github.com/square/okio "okio github"
+[leakcanary github]: https://github.com/square/leakcanary "leakcanary github"
+[rxandroid github]: https://github.com/ReactiveX/RxAndroid "rxandroid github"
+[timber github]: https://github.com/JakeWharton/timber "timber github"
